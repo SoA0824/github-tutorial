@@ -1,0 +1,12 @@
+/.buildpath
+/.project
+/.settings
+/nbproject
+.DS_Store
+._*
+_notes
+Thumbs.db
+*.bak
+*.log
+*.swp
+*.tmp
